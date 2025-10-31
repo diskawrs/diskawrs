@@ -21,7 +21,7 @@ Either way, it’s all part of the same story — creativity, community, and a b
 
 - 🧱 **[A Game of Cubes](https://agameofcubes.com)** — community-driven RPG Minecraft world with Towny, Denizen, and MythicMobs.  
 - ⚓ **[Skellig](https://projectgomad.com/index.php/skellig-ecume-de-mar/)** — 1976 *Écume de Mer* sailboat restoration and small-craft experiments.  
-- 💬 **GoLive** — Twitch & social projects focused on creative balance, design, and storytelling.  
+- 💬 **[Twitch](https://twitch.com/projectgomad)** — Twitch & social projects focused on creative balance, design, and storytelling.  
 
 ---
 
